@@ -1,2 +1,3 @@
 # my-first-project
-My first project repository.
+
+My first project repository!
